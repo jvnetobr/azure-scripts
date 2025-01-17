@@ -17,5 +17,5 @@ A collection of Python and Shell scripts for managing and automating tasks in Mi
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/jvnetobr/azure-scripts.git
    cd azure-scripts
