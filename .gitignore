@@ -1,4 +1,6 @@
 config_data
 filtered_containers
 azure_nmap_scans
+*.csv
+*.json
 *.txt
